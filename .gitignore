@@ -1,0 +1,22 @@
+# Roblox Studio temporary files
+*.rbxlx.tmp
+*.rbxl.tmp
+*.rbxm.tmp
+*.unrbx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Rojo build output
+/build
+/out
+
+# Wally packages
+Packages/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
